@@ -1,6 +1,6 @@
 # Dacebook - Simple Social App (PHP Native)
 
-**Dacebook** is a simple social media-style web application built using **HTML**, **CSS**, **Bootstrap**, and **PHP Native**. This project includes basic user authentication (login & signup) and CRUD functionality for posts.
+**Dacebook** is a simple web application built using **HTML**, **CSS**, **Bootstrap**, and **PHP Native**. This project includes basic user authentication (login & signup) and CRUD functionality for posts.
 
 ## 🔧 Features
 
@@ -9,13 +9,6 @@
 - ✅ Create, read, update, delete (CRUD) posts
 - ✅ Responsive design with Bootstrap
 - ✅ PHP Native (no framework)
-
-## 📁 Folder Structure
-
-- `/assets/` — Stylesheets and images
-- `/includes/` — Reusable PHP components (e.g. header, footer, db config)
-- `/pages/` — Page views (login, register, dashboard, etc.)
-- `/process/` — Form processing and database operations
 
 ## 💻 Technologies Used
 
